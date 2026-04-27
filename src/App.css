@@ -565,9 +565,8 @@ body.dark .feature-card p {
   justify-content: center;
 }
 
-/* =====================
-   LOGIN PAGE
-===================== */
+/* LOGIN PAGE */
+   
 .login-page {
   flex: 1;
   display: flex;
