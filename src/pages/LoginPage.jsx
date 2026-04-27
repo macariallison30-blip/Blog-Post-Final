@@ -32,7 +32,7 @@ function LoginPage() {
     }
 
     setLoading(true);
-    // Simulate slight async delay for UX
+    // slight delay
     setTimeout(() => {
       const result = login(username.trim(), password);
       if (result.success) {
