@@ -874,9 +874,7 @@ body.dark .success-text {
   gap: 4px;
 }
 
-/* =====================
-   RESPONSIVE
-===================== */
+/* RESPONSIVE */
 @media (max-width: 768px) {
   .hero {
     flex-direction: column;
