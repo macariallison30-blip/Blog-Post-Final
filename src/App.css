@@ -780,9 +780,7 @@ body.dark .demo-hint code {
   text-decoration: underline;
 }
 
-/* =====================
-   COMMENT AUTH GATE
-===================== */
+/* COMMENT AUTH GATE */
 .login-prompt {
   background: #eff6ff;
   border: 1.5px dashed #93c5fd;
