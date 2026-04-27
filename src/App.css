@@ -202,9 +202,7 @@ body.dark .theme-btn {
   border-radius: 8px;
   cursor: pointer;
 }
-/* =====================
-   NAVBAR ADDITIONS
-===================== */
+/* NAVBAR ADDITIONS */
 .nav-user {
   display: flex;
   align-items: center;
